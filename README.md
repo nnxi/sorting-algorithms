@@ -1,1 +1,1 @@
-# sorting-algorithms
+a set of sorting algorithms I implemented
