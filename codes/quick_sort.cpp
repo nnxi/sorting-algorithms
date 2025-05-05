@@ -23,8 +23,8 @@ int main() {
 
 	double time = (double)(end - start) / CLOCKS_PER_SEC;
 
-	cout << "°ËÁõ¿ë Á¤·Ä ÈÄ a[99999] : " << a[99999] << "\n";
-	cout << "½ÇÇà½Ã°£ : " << time << "ÃÊ";
+	cout << "ê²€ì¦ìš© ì •ë ¬ í›„ a[99999] : " << a[99999] << "\n";
+	cout << "ì‹¤í–‰ì‹œê°„ : " << time << "ì´ˆ";
 }
 
 void quick_sort(int arr[], int left, int right) {
